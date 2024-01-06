@@ -1,3 +1,3 @@
-# stock_prediction
+# TSLA Stock Prediction
 
-## working on it...
+
